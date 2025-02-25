@@ -3,5 +3,7 @@ bin/
 dataset/
 include/
 lib/
-lib64/
+lib64
 share/
+*.zip
+*.cfg
